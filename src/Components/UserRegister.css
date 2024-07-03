@@ -1,0 +1,44 @@
+/* register */
+.register-nav {
+  color: #fff !important;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 50% !important;
+  width: 50px !important;
+  height: 50px !important;
+  font-size: 24px;
+}
+.active-tab {
+  border: 2px solid green; /* Style for the border of the active tab */
+  background-color: #d1d1d1;
+}
+.visited-tab {
+  background-color: green; /* Style for the background of visited tabs */
+}
+.register-nav-default {
+  background-color: #d1d1d1;
+}
+
+.connected {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.connected::after {
+  content: "";
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 100%; /* Adjust the length of the line as needed */
+  height: 2px; /* Adjust the thickness of the line as needed */
+  background-color: #d1d1d1;
+  transform: translate(0%, 0%);
+  z-index: 1;
+}
+
+.register-card {
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}

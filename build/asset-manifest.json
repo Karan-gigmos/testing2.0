@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.30100dcd.css",
+    "main.js": "/static/js/main.faabb625.js",
+    "static/media/about-image.svg": "/static/media/about-image.f06f6661e679b2614a38e926a8468ca7.svg",
+    "static/media/Dashboard.png": "/static/media/Dashboard.3caa7d73bae6090deb1b.png",
+    "static/media/team-01.png": "/static/media/team-01.fb987960cd4e0fd554ac.png",
+    "static/media/team-02.png": "/static/media/team-02.ef20560fec940e5c1655.png",
+    "static/media/team-04.png": "/static/media/team-04.c2bbe21c2fbf60071dd2.png",
+    "static/media/team-03.png": "/static/media/team-03.4cc229768a613ecca2e0.png",
+    "static/media/logo.png": "/static/media/logo.62675837a939cb39cec8.png",
+    "static/media/ecommerce-html.svg": "/static/media/ecommerce-html.9cef120376b16028478f77459e62f2f7.svg",
+    "static/media/graygrids.svg": "/static/media/graygrids.b0db0e3a352a7c381aa2e577d9190a1d.svg",
+    "static/media/tailwindtemplates.svg": "/static/media/tailwindtemplates.919bed19907d92d9ab70c10c21752c21.svg",
+    "static/media/shape-2.svg": "/static/media/shape-2.12ee557a6dc96e80d4b47ed714f51be5.svg",
+    "static/media/dotted-shape.svg": "/static/media/dotted-shape.555cead382ba964a39c1258d7e31354a.svg",
+    "static/media/brand.svg": "/static/media/brand.b46e242e0bc27ddfd32e0eaaceaa7770.svg",
+    "static/media/uideck.svg": "/static/media/uideck.0ad6abaef85731b4994085e500724af1.svg",
+    "static/media/lineicons.svg": "/static/media/lineicons.9fa8f1b88af79740ad9959fe88296874.svg",
+    "index.html": "/index.html",
+    "static/media/ayroui.svg": "/static/media/ayroui.3bea8808ed1f6872869d9460c29e8f24.svg",
+    "static/media/banner-bg.svg": "/static/media/banner-bg.44f97a8ae8a8767f719b.svg",
+    "static/media/shape.svg": "/static/media/shape.48f2dfbd2e116ef019986129fae11060.svg",
+    "static/media/shape-3.svg": "/static/media/shape-3.9dc4cc390f99da8f98c8f7fe8e6b3bc1.svg",
+    "static/media/shape-1.svg": "/static/media/shape-1.fa4ecb67caf000801a2b6a36b90d6d80.svg",
+    "main.30100dcd.css.map": "/static/css/main.30100dcd.css.map",
+    "main.faabb625.js.map": "/static/js/main.faabb625.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.30100dcd.css",
+    "static/js/main.faabb625.js"
+  ]
+}
